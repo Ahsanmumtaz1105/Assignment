@@ -2,6 +2,7 @@
 using ExcerciseTestAutoFramework.Pages.Wikipedia;
 using ExcerciseTestAutoFramework.TestUtility;
 using ExcerciseTestAutoFramework.TestBase;
+using ExcerciseTestAutoFramework.TestScripts.Wikipedia;
 
 namespace ExcerciseTestAutoFramework.TestScripts.WebTest.Wikipedia
 {
@@ -10,7 +11,7 @@ namespace ExcerciseTestAutoFramework.TestScripts.WebTest.Wikipedia
     {
         public string webapplication = "Wikipedia";     // declare the webapplication
 
-        [TestMethod]
+        [TestCategory("Travelex"), TestCategory("WebTest"), TestMethod]
         public void TestPageTitle()
         {
             // Test Data 
@@ -19,9 +20,9 @@ namespace ExcerciseTestAutoFramework.TestScripts.WebTest.Wikipedia
             string actualPageTitle = GenericMethods.GetPageTitle(); // Get the title of the page 
             CustomValidator.AreEquals(expectedPageTitle, actualPageTitle, "Page title Mismatched");
         }
-    
-    [TestMethod]
-    public void TestDidYouMeanSuggestion()
+
+        [TestCategory("Travelex"), TestCategory("WebTest"), TestMethod]
+        public void TestDidYouMeanSuggestion()
     {
         // Test Data
         string searchString = "furry rabbits";
@@ -33,7 +34,7 @@ namespace ExcerciseTestAutoFramework.TestScripts.WebTest.Wikipedia
         CustomValidator.AreEquals(expectedString, actualSuggestionString, "Suggestion String mismatched");
     }
 
-        [TestMethod]
+        [TestCategory("Travelex"), TestCategory("WebTest"), TestMethod]
         public void TestSearchResultsCount()
         {
             // Test Data
@@ -51,7 +52,7 @@ namespace ExcerciseTestAutoFramework.TestScripts.WebTest.Wikipedia
 
         }
 
-        [TestMethod]
+        [TestCategory("Travelex"), TestCategory("WebTest"), TestMethod]
         public void TestFirstResultTitleAndContentTable()
         {
             // Test Data

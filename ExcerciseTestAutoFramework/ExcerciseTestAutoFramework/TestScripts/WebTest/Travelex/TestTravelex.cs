@@ -12,7 +12,7 @@ namespace ExcerciseTestAutoFramework.TestScripts.WebTest.Travelex
     {
         public string webapplication = "Travelex";  // Appication under test
 
-        [TestMethod]
+        [TestCategory("Travelex"), TestCategory("WebTest"), TestMethod]
         public void TestArticlesSlider()
         {
             // Test Data
