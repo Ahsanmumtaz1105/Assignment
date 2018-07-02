@@ -1,0 +1,13 @@
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\ExcerciseTestAutoFramework.dll.config
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\ExcerciseTestAutoFramework.dll
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\ExcerciseTestAutoFramework.pdb
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\nunit.framework.dll
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\WebDriver.dll
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\WebDriver.Support.dll
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\nunit.framework.pdb
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\nunit.framework.xml
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\WebDriver.xml
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\bin\Debug\WebDriver.Support.xml
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\obj\Debug\ExcerciseTestAutoFramework.dll
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\obj\Debug\ExcerciseTestAutoFramework.pdb
+F:\VS_Projects\ExcerciseTestAutoFramework\ExcerciseTestAutoFramework\obj\Debug\ExcerciseTestAutoFramework.csprojResolveAssemblyReference.cache
